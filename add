@@ -1,0 +1,20 @@
+[33mcommit 7920a67b923b34086750ba1d5c7df63fe52d140d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Luziberto Mendes <luzibertomendesjunior@hotmail.com>
+Date:   Mon Jan 28 08:54:54 2019 -0300
+
+    Edit Readme
+
+[1mdiff --git a/Readme.md b/Readme.md[m
+[1mindex 4a60d56..c08f677 100644[m
+[1m--- a/Readme.md[m
+[1m+++ b/Readme.md[m
+[36m@@ -2,4 +2,6 @@[m
+ [m
+ Este é um repositório testa para ensinar como o git funciona.i[m
+ [m
+[31m-Saiba mais em [willianjusten.com.br](http://willianjusten.com.br)[m
+\ No newline at end of file[m
+[32m+[m[32mSaiba mais em [willianjusten.com.br](http://willianjusten.com.br)[m
+[32m+[m
+[32m+[m[32mGostou do curso? Quer mais ? Até um café é valido =);[m
+\ No newline at end of file[m
